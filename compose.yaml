@@ -1,0 +1,7 @@
+
+name: n9_workcell
+include:
+  - path: 'docker/wei.compose.yaml'
+    project_directory: '.'
+    env_file: '.env'
+ 
